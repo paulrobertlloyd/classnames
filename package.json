@@ -1,0 +1,49 @@
+{
+  "name": "@paulrobertlloyd/classnames",
+  "version": "1.0.0",
+  "description": "A source of inspiration for naming things.",
+  "keywords": [
+    "reference",
+    "resource"
+  ],
+  "homepage": "https://github.com/paulrobertlloyd/classnames",
+  "bugs": {
+    "url": "https://github.com/paulrobertlloyd/classnames/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulrobertlloyd/classnames.git"
+  },
+  "scripts": {
+    "build": "eleventy --quiet",
+    "start": "eleventy --serve --quiet",
+    "lint": "eslint '**/*.js'"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "@x-govuk/govuk-eleventy-plugin": "x-govuk/govuk-eleventy-plugin#all-scss-settings",
+    "eslint": "^8.39.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-jsdoc": "^46.0.0"
+  },
+  "private": true,
+  "engines": {
+    "node": "^18"
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:jsdoc/recommended",
+      "standard"
+    ],
+    "rules": {
+      "jsdoc/tag-lines": 0
+    }
+  },
+  "eslintIgnore": [
+    "_site"
+  ]
+}
