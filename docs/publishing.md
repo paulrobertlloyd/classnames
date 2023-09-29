@@ -5,6 +5,10 @@ related:
   sections:
     - title: Related links
       items:
+      - text: "What do you call the parts of a story? Or: why can’t journalists spell “lead”?"
+        href: https://blog.carlmjohnson.net/post/2020/article-bits/
+      - text: News style, Terms_and_structure on Wikipedia
+        href: https://en.wikipedia.org/wiki/News_style#Terms_and_structure
       - text: Traditional point-size names on Wikipedia
         href: https://en.wikipedia.org/wiki/Traditional_point-size_names
 ---
@@ -15,30 +19,32 @@ related:
 * {{ "poster" | dfn }}
 * {{ "leaflet" | dfn }}
 * {{ "pamphlet" | dfn }}
+* {{ "primer" | dfn }}
 * {{ "brochure" | dfn }}
 * {{ "tabloid" | dfn }}
 * {{ "berliner" | dfn }}
 * {{ "broadsheet" | dfn }}
 
-## Parts
+## Sections
 
 * {{ "appendix" | dfn }}
+* {{ "article" | dfn }}
 * {{ "chapter" | dfn }}
 * {{ "colophon" | dfn }}
 * {{ "cover" | dfn }}
 * {{ "feature" | dfn }}
 * {{ "index" | dfn }}
+* {{ "masthead" | dfn }} or {{ "nameplate" | dfn }}
+* {{ "section" | dfn }}
 * {{ "spread" | dfn }}
 
-## Sections
+## Article parts
 
 * {{ "abstract" | dfn }}
-* {{ "article" | dfn }}
 * {{ "aside" | dfn }}
 * {{ "badge" | dfn }}
 * {{ "body" | dfn }}
 * {{ "box[out]" | dfn }}
-* {{ "byline" | dfn }}
 * {{ "callout" | dfn }}
 * {{ "caption" | dfn }}
 * {{ "citation" | dfn }}
@@ -46,20 +52,28 @@ related:
 * {{ "excerpt" | dfn }}
 * {{ "footer" | dfn }} ⇄ {{ "header" | dfn }}
 * {{ "intro[duction]" | dfn }}
-* {{ "kicker" | dfn }}
-* {{ "lede" | dfn }}
-* {{ "masthead" | dfn }}
 * {{ "meta" | dfn }}
-* {{ "nameplate" | dfn }}
-* {{ "primer" | dfn }}
 * {{ "prose" | dfn }}
 * {{ "quote" | dfn }}
-* {{ "section" | dfn }}
+* {{ "rubric" | dfn }}
+* {{ "slug" | dfn }}
 * {{ "sidebar" | dfn }}
 * {{ "signpost" | dfn }}
-* {{ "standfirst" | dfn }}
-* {{ "splash" | dfn }}
 * {{ "summary" | dfn }}
+* {{ "tag" | dfn }}
+
+### Journalism
+
+* {{ "headline" | dfn }} or hed
+* {{ "subhead" | dfn }} or subhed
+* {{ "dek" | dfn }} or deck
+* {{ "billboard" | dfn }}
+* {{ "byline" | dfn }}
+* {{ "dateline" | dfn }}
+* {{ "standfirst" | dfn }}
+* {{ "lede" | dfn }} or lead
+* {{ "nutgraf" | dfn }} or {{ "nutshell" | dfn }}
+* {{ "kicker" | dfn }}
 
 ## Layout
 
