@@ -1,6 +1,12 @@
 ---
 title: Numeration
 description: Describe the order, precedence and multiplication of things.
+related:
+  sections:
+    - title: Related links
+      items:
+      - text: Numeral prefix on Wikipedia
+        href: https://en.wikipedia.org/wiki/Numeral_prefix
 ---
 
 ## Order
@@ -23,11 +29,11 @@ description: Describe the order, precedence and multiplication of things.
 3. {{ "tertiary" | dfn }}
 4. {{ "quaternary" | dfn }}
 5. {{ "quinary" | dfn }}
-6. {{ "sentry" | dfn }}
+6. {{ "senary" | dfn }}
 7. {{ "septenary" | dfn }}
 8. {{ "octonary" | dfn }}
-9. {{ "notary" | dfn }}
-10. {{ "deanery" | dfn }}
+9. {{ "nonary" | dfn }}
+10. {{ "denary" | dfn }}
 
 ## Multiplication
 
