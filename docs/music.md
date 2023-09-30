@@ -1,6 +1,12 @@
 ---
 title: 🎼 Music
 description: Terms from musical can describe the pace, volume and arrangement of things.
+related:
+  sections:
+    - title: Related links
+      items:
+      - text: Musical Ensembles on Wikipedia
+        href: https://en.wikipedia.org/wiki/Template:Musical_ensembles
 ---
 
 ## Ensembles
