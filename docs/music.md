@@ -34,13 +34,22 @@ related:
 
 ## Tempo
 
-* {{ "additive" | dfn }}
-* {{ "complex" | dfn }}
+* {{ "largo" | dfn }}
+* {{ "adagio" | dfn }}
+* {{ "andante" | dfn }}
+* {{ "moderato" | dfn }}
+* {{ "allegro" | dfn }}
+* {{ "presto" | dfn }}
+
+## Time signatures
+
+* {{ "simple" | dfn }}
 * {{ "compound" | dfn }}
+* {{ "complex" | dfn }}
+* {{ "mixed" | dfn }}
+* {{ "additive" | dfn }}
 * {{ "fractional" | dfn }}
 * {{ "irrational" | dfn }}
-* {{ "mixed" | dfn }}
-* {{ "simple" | dfn }}
 
 ## Vocal range
 
