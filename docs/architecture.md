@@ -11,13 +11,16 @@ related:
 
 ## Construction
 
-* {{ "foundation" | dfn }}
+* {{ "foundation" | dfn }} ⇄ {{ "footing" | dfn }}
 * {{ "frame" | dfn }}
 * {{ "scaffold" | dfn }}
 * {{ "elevation" | dfn }}
 
 ## Parts
 
+* {{ "fitting" | dfn }}
+* {{ "fixture" | dfn }}
+* {{ "furniture" | dfn }}
 * {{ "floor" | dfn }} ⇄ {{ "ceiling" | dfn }}
 * {{ "steps" | dfn }}
 * {{ "roof" | dfn }}
