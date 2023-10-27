@@ -16,6 +16,13 @@ related:
 * {{ "scaffold" | dfn }}
 * {{ "elevation" | dfn }}
 
+### Stages
+
+* {{ "rough in" | dfn }} or {{ "cut out" | dfn }}
+* {{ "fit out" | dfn }} or fit off
+* {{ "lockup" | dfn }}
+* {{ "handover" | dfn }}
+
 ## Parts
 
 * {{ "fitting" | dfn }}
