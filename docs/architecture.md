@@ -11,7 +11,7 @@ related:
 
 ## Construction
 
-* {{ "foundation" | dfn }} ⇄ {{ "footing" | dfn }}
+* {{ "foundation" | dfn }} or {{ "footing" | dfn }}
 * {{ "frame" | dfn }}
 * {{ "scaffold" | dfn }}
 * {{ "elevation" | dfn }}
