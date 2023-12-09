@@ -7,17 +7,6 @@ const repoUrl = 'https://github.com/paulrobertlloyd/classnames'
 module.exports = function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(govukEleventyPlugin, {
-    brandColour: '#c39',
-    canvasBackgroundColour: '#f9f9fc',
-    focusColour: '#fce',
-    fontFamily: 'Space Grotesk, system-ui',
-    linkColour: '#06c',
-    linkActiveColour: '#039',
-    linkHoverColour: '#939',
-    linkVisitedColour: '#06c',
-    pageWidth: '800px',
-    textColour: '#334',
-    secondaryTextColour: '#556',
     icons: {
       mask: `${siteUrl}/assets/mask-icon.svg`,
       shortcut: `${siteUrl}/assets/favicon.ico`,
@@ -29,8 +18,9 @@ module.exports = function (eleventyConfig) {
       ? siteUrl
       : '/',
     header: {
-      organisationLogo: false,
-      organisationName: 'Classnames'
+      logotype: {
+        text: 'Classnames'
+      }
     },
     footer: {
       contentLicence: {
