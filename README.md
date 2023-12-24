@@ -8,7 +8,7 @@ Naming things needn’t be hard. Find inspiration for naming things – be that 
 
 ## Requirements
 
-Node.js v18 or later.
+Node.js v20 or later.
 
 ## Installation
 
