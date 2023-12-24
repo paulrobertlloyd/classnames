@@ -5,21 +5,21 @@ description: Terms from art can describe the composition of things.
 
 ## Composition
 
-* {{ "accent" | dfn }}
-* {{ "adjacent" | dfn }}
-* {{ "auxiliary" | dfn }}
-* {{ "blur" | dfn }} ⇄ {{ "focus" | dfn }}
-* {{ "canvas" | dfn }}
-* {{ "complement" | dfn }}
-* {{ "crop" | dfn }}
-* {{ "frame" | dfn }}
-* {{ "field" | dfn }}
-* {{ "inline" | dfn }} ⇄ {{ "outline" | dfn }}
-* {{ "inner" | dfn }} ⇄ {{ "outer" | dfn }}
-* {{ "inside" | dfn }} ⇄ {{ "outside" | dfn }}
-* {{ "figure" | dfn }} ⇄ {{ "ground" | dfn }}
-* {{ "portrait" | dfn }} ⇄ {{ "landscape" | dfn }}
-* {{ "foreground" | dfn }} ⇄ {{ "background" | dfn }}
+- {{ "accent" | dfn }}
+- {{ "adjacent" | dfn }}
+- {{ "auxiliary" | dfn }}
+- {{ "blur" | dfn }} ⇄ {{ "focus" | dfn }}
+- {{ "canvas" | dfn }}
+- {{ "complement" | dfn }}
+- {{ "crop" | dfn }}
+- {{ "frame" | dfn }}
+- {{ "field" | dfn }}
+- {{ "inline" | dfn }} ⇄ {{ "outline" | dfn }}
+- {{ "inner" | dfn }} ⇄ {{ "outer" | dfn }}
+- {{ "inside" | dfn }} ⇄ {{ "outside" | dfn }}
+- {{ "figure" | dfn }} ⇄ {{ "ground" | dfn }}
+- {{ "portrait" | dfn }} ⇄ {{ "landscape" | dfn }}
+- {{ "foreground" | dfn }} ⇄ {{ "background" | dfn }}
 
 ## Layout
 

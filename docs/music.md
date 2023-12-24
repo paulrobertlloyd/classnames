@@ -5,8 +5,8 @@ related:
   sections:
     - title: Related links
       items:
-      - text: Musical Ensembles on Wikipedia
-        href: https://en.wikipedia.org/wiki/Template:Musical_ensembles
+        - text: Musical Ensembles on Wikipedia
+          href: https://en.wikipedia.org/wiki/Template:Musical_ensembles
 ---
 
 ## Ensembles
@@ -26,41 +26,41 @@ related:
 
 ## Notes
 
-* {{ "breve" | dfn }} (double note)
-* {{ "semibreve" | dfn }} (whole note)
-* {{ "minim" | dfn }} (half note)
-* {{ "crotchet" | dfn }} (quarter note)
-* {{ "quaver" | dfn }} (eighth note)
+- {{ "breve" | dfn }} (double note)
+- {{ "semibreve" | dfn }} (whole note)
+- {{ "minim" | dfn }} (half note)
+- {{ "crotchet" | dfn }} (quarter note)
+- {{ "quaver" | dfn }} (eighth note)
 
 ## Tempo
 
-* {{ "largo" | dfn }}
-* {{ "adagio" | dfn }}
-* {{ "andante" | dfn }}
-* {{ "moderato" | dfn }}
-* {{ "allegro" | dfn }}
-* {{ "presto" | dfn }}
+- {{ "largo" | dfn }}
+- {{ "adagio" | dfn }}
+- {{ "andante" | dfn }}
+- {{ "moderato" | dfn }}
+- {{ "allegro" | dfn }}
+- {{ "presto" | dfn }}
 
 ## Time signatures
 
-* {{ "simple" | dfn }}
-* {{ "compound" | dfn }}
-* {{ "complex" | dfn }}
-* {{ "mixed" | dfn }}
-* {{ "additive" | dfn }}
-* {{ "fractional" | dfn }}
-* {{ "irrational" | dfn }}
+- {{ "simple" | dfn }}
+- {{ "compound" | dfn }}
+- {{ "complex" | dfn }}
+- {{ "mixed" | dfn }}
+- {{ "additive" | dfn }}
+- {{ "fractional" | dfn }}
+- {{ "irrational" | dfn }}
 
 ## Vocal range
 
 ### Female
 
-* {{ "soprano" | dfn }}
-* {{ "mezzo-soprano" | dfn }}
-* {{ "contralto" | dfn }}
+- {{ "soprano" | dfn }}
+- {{ "mezzo-soprano" | dfn }}
+- {{ "contralto" | dfn }}
 
 ### Male
 
-* {{ "tenor" | dfn }}
-* {{ "baritone" | dfn }}
-* {{ "bass" | dfn }}
+- {{ "tenor" | dfn }}
+- {{ "baritone" | dfn }}
+- {{ "bass" | dfn }}

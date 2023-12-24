@@ -5,18 +5,18 @@ related:
   sections:
     - title: Related links
       items:
-      - text: Clothing sizes on Wikipedia
-        href: https://en.wikipedia.org/wiki/Clothing_sizes
+        - text: Clothing sizes on Wikipedia
+          href: https://en.wikipedia.org/wiki/Clothing_sizes
 ---
 
 ## Clothing sizes
 
-| Name | Abbreviation | Initialism |
-| - | - | - |
-| extra-extra-small | xx-small | xxs |
-| extra-small | x-small | xs |
-| {{ "small" | dfn }} | sm | s |
-| {{ "medium" | dfn }} | md | m |
-| {{ "large" | dfn }} | lg | l |
-| extra-large | x-large | xl |
-| extra-extra-large | xx-large | xxl |
+| Name              | Abbreviation | Initialism |
+| ----------------- | ------------ | ---------- |
+| extra-extra-small | xx-small     | xxs        |
+| extra-small       | x-small      | xs         |
+| small             | sm           | s          |
+| medium            | md           | m          |
+| large             | lg           | l          |
+| extra-large       | x-large      | xl         |
+| extra-extra-large | xx-large     | xxl        |
