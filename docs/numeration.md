@@ -5,8 +5,8 @@ related:
   sections:
     - title: Related links
       items:
-      - text: Numeral prefix on Wikipedia
-        href: https://en.wikipedia.org/wiki/Numeral_prefix
+        - text: Numeral prefix on Wikipedia
+          href: https://en.wikipedia.org/wiki/Numeral_prefix
 ---
 
 ## Order
@@ -53,5 +53,5 @@ See also: [Music - Ensembles](/music#ensembles).
 12. {{ "duodecuple" | dfn }}
 13. {{ "tredecuple" | dfn }}
 
-* {{ "centuple" | dfn }} (100)
-* {{ "multiple" | dfn }} (more than 1)
+- {{ "centuple" | dfn }} (100)
+- {{ "multiple" | dfn }} (more than 1)
