@@ -1,6 +1,6 @@
 # Classnames
 
-<img src="docs/assets/apple-touch-icon.png" width="100" height="100" align="right" alt="">
+<img src="docs/assets/icon.png" width="100" height="100" align="right" alt="">
 
 > There are only two hard things in computer science: cache invalidation and naming things.
 
