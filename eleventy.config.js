@@ -14,7 +14,7 @@ module.exports = function (eleventyConfig) {
     },
     themeColour: "#336",
     opengraphImageUrl: `${siteUrl}/assets/opengraph-image.png`,
-    url: process.env.GITHUB_ACTIONS ? siteUrl : "/",
+    url: process.env.GITHUB_ACTIONS && siteUrl,
     header: {
       logotype: {
         text: "Classnames",
