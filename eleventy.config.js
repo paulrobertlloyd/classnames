@@ -10,7 +10,7 @@ module.exports = function (eleventyConfig) {
     icons: {
       mask: `${siteUrl}/assets/mask-icon.svg`,
       shortcut: `${siteUrl}/assets/favicon.ico`,
-      touch: `${siteUrl}/assets/apple-touch-icon.png`,
+      touch: `${siteUrl}/assets/icon.png`,
     },
     themeColour: "#336",
     opengraphImageUrl: `${siteUrl}/assets/opengraph-image.png`,
