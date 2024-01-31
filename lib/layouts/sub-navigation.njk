@@ -1,5 +1,9 @@
 {% extends "layouts/sub-navigation.njk" %}
 
+{% block pageTitle -%}
+  {% if pageName %}{{ pageName }} - {% endif %}{{ title }} - Classnames
+{%- endblock %}
+
 {% block head %}
   {{ super() }}
   {% include "_head.njk" %}
