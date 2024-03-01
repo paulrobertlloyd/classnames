@@ -5,7 +5,7 @@ module.exports = {
     es2021: true,
   },
   extends: ["xo", "prettier"],
-  ignores: ["_site"],
+  ignorePatterns: ["_site"],
   parserOptions: {
     ecmaVersion: "latest",
   },
