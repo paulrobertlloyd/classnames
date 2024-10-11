@@ -4,6 +4,7 @@ import { dfn } from "./lib/filters/dfn.js";
 const siteUrl = "https://classnames.paulrobertlloyd.com";
 const repoUrl = "https://github.com/paulrobertlloyd/classnames";
 
+// eslint-disable-next-line unicorn/no-anonymous-default-export
 export default function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(govukEleventyPlugin, {
