@@ -1,10 +1,10 @@
-const process = require("node:process");
-const govukEleventyPlugin = require("@x-govuk/govuk-eleventy-plugin");
-const dfn = require("./lib/filters/dfn.js");
+import process from "node:process";
+import govukEleventyPlugin from "@x-govuk/govuk-eleventy-plugin";
+import { dfn } from "./lib/filters/dfn.js";
 const siteUrl = "https://classnames.paulrobertlloyd.com";
 const repoUrl = "https://github.com/paulrobertlloyd/classnames";
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     icons: {
@@ -54,4 +54,4 @@ module.exports = function (eleventyConfig) {
       layouts: "../lib/layouts",
     },
   };
-};
+}
