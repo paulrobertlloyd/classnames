@@ -4,7 +4,7 @@ layout: collection
 title: Naming things needn’t be hard
 description: Find inspiration for naming things – be that HTML classes, CSS properties or JavaScript functions – using these lists of useful words.
 pagination:
-  data: collections.ordered
+  data: collections.all
   size: 100
 paginationHeading: Word lists
 aside:

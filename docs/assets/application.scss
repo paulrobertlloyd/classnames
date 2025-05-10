@@ -1,0 +1,49 @@
+// Use GOV.UK Frontend components
+$_font-family: "Space Grotesk", system-ui;
+@use "pkg:govuk-frontend/dist/govuk" with (
+  $govuk-global-styles: true,
+  $govuk-new-organisation-colours: true,
+  $govuk-new-typography-scale: true,
+  $govuk-font-family: $_font-family,
+  $govuk-page-width: 800px,
+  $govuk-brand-colour: #cc3399,
+  $govuk-template-background-colour: #f9f9fc,
+  $govuk-focus-colour: #ffccee,
+  $govuk-link-colour: #0066cc,
+  $govuk-link-visited-colour: #0066cc,
+  $govuk-link-hover-colour: #993399,
+  $govuk-link-active-colour: #003399,
+  $govuk-text-colour: #333344,
+  $govuk-secondary-text-colour: #555566,
+  $govuk-border-colour: #ddddee
+);
+
+// Use GOV.UK Eleventy Plugin components
+@forward "pkg:@x-govuk/govuk-eleventy-plugin";
+
+.govuk-header__container {
+  border-bottom-width: 1px;
+  border-color: #fff6;
+  margin-bottom: -1px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+.app-header__logotype {
+  font-weight: bold;
+  text-transform: lowercase;
+}
+
+.app-header__logotype::before {
+  color: #c39;
+  content: ".";
+}
+
+.govuk-header,
+.x-govuk-masthead {
+  background: linear-gradient(-90deg, #c39, #336 66%);
+}
+
+.x-govuk-masthead__title {
+  font-size: 2.75rem;
+}

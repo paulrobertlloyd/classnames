@@ -1,0 +1,5 @@
+{
+  "layout": "sub-navigation",
+  "templateEngineOverride": "njk,md",
+  "permalink": "{{ title | slugify }}/index.html"
+}

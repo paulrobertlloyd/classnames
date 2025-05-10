@@ -1,5 +1,5 @@
 import process from "node:process";
-import govukEleventyPlugin from "@x-govuk/govuk-eleventy-plugin";
+import { govukEleventyPlugin } from "@x-govuk/govuk-eleventy-plugin";
 import { dfn } from "./lib/filters/dfn.js";
 const siteUrl = "https://classnames.paulrobertlloyd.com";
 const repoUrl = "https://github.com/paulrobertlloyd/classnames";
@@ -13,9 +13,15 @@ export default function (eleventyConfig) {
       shortcut: `${siteUrl}/assets/favicon.ico`,
       touch: `${siteUrl}/assets/icon.png`,
     },
-    themeColour: "#336",
+    stylesheets: [
+      "/assets/application.css",
+      "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@450;700&display=swap",
+    ],
+    themeColor: "#336",
     opengraphImageUrl: `${siteUrl}/assets/opengraph-image.png`,
     url: process.env.GITHUB_ACTIONS && siteUrl,
+    titleSuffix: "Classnames",
+    showBreadcrumbs: false,
     header: {
       logotype: {
         text: "Classnames",
@@ -47,12 +53,8 @@ export default function (eleventyConfig) {
 
   // Config
   return {
-    dataTemplateEngine: "njk",
-    htmlTemplateEngine: "njk",
-    markdownTemplateEngine: "njk",
     dir: {
       input: "docs",
-      layouts: "../lib/layouts",
     },
   };
 }
