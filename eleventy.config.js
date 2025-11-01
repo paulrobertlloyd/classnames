@@ -34,6 +34,7 @@ export default function (eleventyConfig) {
       copyright: {
         text: "© Paul Robert Lloyd",
       },
+      logo: false,
       meta: {
         items: [
           {

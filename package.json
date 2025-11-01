@@ -27,11 +27,11 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
-    "@x-govuk/govuk-eleventy-plugin": "^7.0.0",
+    "@x-govuk/govuk-eleventy-plugin": "^8.1.0",
     "eslint": "^9.0.0",
     "eslint-config-prettier": "^10.1.0",
     "eslint-plugin-prettier": "^5.1.2",
-    "eslint-plugin-unicorn": "^59.0.0",
+    "eslint-plugin-unicorn": "^62.0.0",
     "prettier": "^3.1.1"
   },
   "private": true,
